@@ -8,3 +8,8 @@
 
 Soybean molecular breeding program
 Yield estimation
+
+Methods used:
+- depth segmentation 
+- object detection 
+- pod counting 
