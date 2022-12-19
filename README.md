@@ -12,4 +12,5 @@ Yield estimation
 Methods used:
 - depth segmentation 
 - object detection 
-- pod counting 
+- pod counting
+- Yield correlation with the ground-truth data
