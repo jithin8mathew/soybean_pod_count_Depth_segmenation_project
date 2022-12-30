@@ -4,6 +4,8 @@
 
 [![Jithin GitHub banner](5.png)](https://github.com/jithin8mathew/soybean_pod_count_Depth_segmenation_project)
 
+[![Jithin GitHub banner](platform.png)](https://github.com/jithin8mathew/soybean_pod_count_Depth_segmenation_project)
+
 [![Jithin GitHub banner](Training_comparison.png)](https://github.com/jithin8mathew/soybean_pod_count_Depth_segmenation_project)
 
 - application:
