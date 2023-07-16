@@ -1,4 +1,6 @@
-# Soybean pod count using Depth segmentation approach (project 2022)
+<div align="center">
+    # Soybean pod count using Depth segmentation approach (project 2022)
+</div>
 
 <p>Enhancing soybean yield (scientific name: <em>Glycine max</em> L. (<em>Merr.</em>)) is crucial for strengthening national food security. To achieve this, accurately predicting soybean yield before crop maturity is essential. However, traditional methods often face challenges in estimating yield due to issues with the background color of the crops.</p>
 
@@ -19,7 +21,7 @@ Methods used:
 - Figure (a): RGB image collected with a depth camera in the soybean field. Figure (b): The depth image represents color intensity based on the distance of objects from the camera. Closer objects are shown in red, while farther objects are shown in blue.Figure (c): All objects captured in the RGB image that are farther than 50 cm are removed. </figcaption>
 
 <div style="text-align: center;">
-  [<img src="5.png" width="300" height="600">]
+  <img src="5.png" width="300" height="600">
 </div>
 - Comparison of soybean pod detection accuracy using YOLOv7 trained on primary dataset
 
@@ -27,13 +29,13 @@ Methods used:
   <p>The camera was mounted on a platform at a height of 44.4 cm from ground level to ensure that the full length of the soybean plants was captured in each frame. The sensor placement on the platform remained consistent throughout the data collection, maintaining the same camera angle and field of view for all images. The platform was manually moved across the field during data collection, and image capturing was automated using a Python v3.9.11 script.</p>
 
 <div style="text-align: center;">
-  [<img src="platform.png" width="600">]</div>
+  <img src="platform.png" width="600"></div>
 
 - Training comparison
   <p>The comparison between the model trained on the primary dataset (35,082 images) and the no-background dataset (1000 images) shows a clear difference in the model's performance when testing on a new, unseen dataset. It can be concluded that a larger training dataset greatly improves both the model's accuracy and its overall generalization ability. The YOLOv7 model trained on the primary dataset demonstrates a 5% improvement in precision, an 11.1% increase in recall, a 4.2% improvement in mAP@50, and a 15.4% increase in mAP@50:95 compared to the model trained on the 1000-image dataset. Although the training time for YOLOv7 significantly increases with a larger dataset, the improvement in detection performance justifies the extra time spent on training the model.</p>
 
 <div style="text-align: center;">
-  [<img src="Training_comparison.png" width="600">]
+  <img src="Training_comparison.png" width="600">
 </div>
 
 - applications: 
