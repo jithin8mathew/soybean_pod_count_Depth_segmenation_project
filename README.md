@@ -1,12 +1,20 @@
 # soybean_pod_count_Depth_segmentation_project_2022
 
-[<img src="mouseRGB.png" width="300">](https://github.com/jithin8mathew/soybean_pod_count_Depth_segmenation_project)
+<div style="text-align: center;">
+  [<img src="mouseRGB.png" width="300">](https://github.com/jithin8mathew/soybean_pod_count_Depth_segmenation_project)
+</div>
 
-[<img src="5.png" width="300">](https://github.com/jithin8mathew/soybean_pod_count_Depth_segmenation_project)
+<div style="text-align: center;">
+  [<img src="5.png" width="300">](https://github.com/jithin8mathew/soybean_pod_count_Depth_segmenation_project)
+</div>
 
-[<img src="platform.png" width="300">](https://github.com/jithin8mathew/soybean_pod_count_Depth_segmenation_project)
+<div style="text-align: center;">
+  [<img src="platform.png" width="300">](https://github.com/jithin8mathew/soybean_pod_count_Depth_segmenation_project)
+</div>
 
-[<img src="Training_comparison.png" width="600">](https://github.com/jithin8mathew/soybean_pod_count_Depth_segmenation_project)
+<div style="text-align: center;">
+  [<img src="Training_comparison.png" width="600">](https://github.com/jithin8mathew/soybean_pod_count_Depth_segmenation_project)
+</div>
 
 - application:
 
