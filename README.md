@@ -1,5 +1,9 @@
 # soybean_pod_count_Depth_segmentation_project_2022
 
+<div align="center">
+  <img src="mouseRGB.png" width="600">
+</div>
+
 <div style="text-align: center;">
   [<img src="mouseRGB.png" width="300">](https://github.com/jithin8mathew/soybean_pod_count_Depth_segmenation_project)
 </div>
