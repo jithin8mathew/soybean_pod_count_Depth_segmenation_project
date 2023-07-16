@@ -9,11 +9,14 @@
 <p>By employing the depth camera and the YOLOv7 algorithm for pod detection and counting, we achieved a mAP@0.5 of 93.4% and mAP@0.5:0.95 of 83.9%. These findings clearly demonstrate the substantial enhancement in the DL model's performance when the background was segmented and a reasonably larger dataset was utilized for training YOLOv7.</p>
 
 <div align="center">
-  <img src="mouseRGB.png" width="600">
+  <figure>
+    <img src="mouseRGB.png" width="600">
+    <figcaption>Figure (a): RGB image collected with a depth camera in the soybean field. Figure (b): The depth image represents color intensity based on the distance of objects from the camera. Closer objects are shown in red, while farther objects are shown in blue.Figure (c): All objects captured in the RGB image that are farther than 50 cm are removed. </figcaption>
+  </figure>
 </div>
 
 <div style="text-align: center;">
-  [<img src="5.png" width="300">]<--(https://github.com/jithin8mathew/soybean_pod_count_Depth_segmenation_project) -->
+  [<img src="5.png" width="300">]
 </div>
 
 - Platform
