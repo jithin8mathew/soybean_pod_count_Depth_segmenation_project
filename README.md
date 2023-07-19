@@ -41,3 +41,16 @@
 ### applications: 
 - Soybean breeding program (to pick the high-yielding variety)
 - Yield estimation in-field conditions
+
+### Citation:
+@article{mathew2023novel,
+  author = {Mathew, J. and Delavarpour, N. and Miranda, C. and Stenger, J. and Zhang, Z. and Aduteye, J. and Flores, P.},
+  title = {A Novel Approach to Pod Count Estimation Using a Depth Camera in Support of Soybean Breeding Applications},
+  journal = {Sensors},
+  year = {2023},
+  volume = {23},
+  issue = {14},
+  pages = {6506},
+  doi = {10.3390/s23146506}
+}
+
