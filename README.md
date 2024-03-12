@@ -1,5 +1,9 @@
 # Soybean pod count using Depth segmentation approach (project 2022)
 
+<a href="https://www.mdpi.com/1424-8220/23/14/6506#:~:text=The%20results%20of%20this%20study,from%20a%20large%20number%20of">
+     <img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/DOI-10.3390%2Fs23146506-red"/>    
+</a>
+
 <p>Enhancing soybean yield (scientific name: <em>Glycine max</em> L. (<em>Merr.</em>)) is crucial for strengthening national food security. To achieve this, accurately predicting soybean yield before crop maturity is essential. However, traditional methods often face challenges in estimating yield due to issues with the background color of the crops.</p>
 
 <p>In order to overcome this challenge, we investigated the use of a depth camera to filter RGB images in real-time, aiming to improve the performance of the pod-counting classification model. Furthermore, we compared different object detection models, such as YOLOV7 and YOLOv7-E6E, to select the most suitable deep learning (DL) model for accurately counting soybean pods.</p>
